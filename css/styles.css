@@ -84,6 +84,22 @@ a:hover{
   margin: 100px 0;
 }
 
+.mid-anchor{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.mid-anchor:hover{
+  color: black;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
 .my-pic{
   width: 25%;
 }
@@ -94,9 +110,13 @@ a:hover{
 }
 
 .slot{
+  padding-top: 1px;
+  padding-bottom: 1px;
 }
 
 .slot:hover{
+  padding-top: 1px;
+  padding-bottom: 1px;
   background-color: #EAF6F6;
 }
 
@@ -138,7 +158,7 @@ a:hover{
 }
 
 .contact-message{
-  width: 40%;
+  width: 30%;
   margin: 40px auto 60px auto;
 }
 
